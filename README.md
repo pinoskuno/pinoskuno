@@ -41,8 +41,9 @@ My projects include a patient registration system for Puskesmas Simpur using HTM
 ![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
 ![c](https://icongr.am/devicon/c-original.svg?size=50&color=currentColor)
 ![c++](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
-![Kotlin](https://github.com/pinoskuno/pinoskuno/blob/main/kotlin.svg?size=50&color=currentColor)
-![Flutter](https://github.com/pinoskuno/pinoskuno/blob/main/flutter.svg?size=50&color=currentColor)
+<img src="https://github.com/pinoskuno/pinoskuno/blob/main/kotlin.svg" alt="Kotlin" width="50"/>
+<img src="https://github.com/pinoskuno/pinoskuno/blob/main/flutter.svg" alt="Flutter" width="50"/>
+
 
  
 ### Tools 🛠 
