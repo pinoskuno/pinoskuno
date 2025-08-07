@@ -59,14 +59,6 @@ My projects include a patient registration system for Puskesmas Simpur using HTM
 </div>
 <hr>
 
-### Badges / Certifications
-
-<!--START_SECTION:badges-->
-[![AWS Learning: Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/earner/earned/badge/9d5df81a-dda0-49cf-8f58-6ca95a521021 "AWS Learning: Foundations")
-[![AWS Learning: Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](https://www.credly.com/earner/earned/badge/e296b346-2dcd-4b59-b57e-c2d2f4ea23b0 "AWS Learning: Architecting")
-[![Cybersecurity Essentials](https://images.credly.com/size/100x100/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](http://www.credly.com/badges/89a876fe-2d21-4182-b6d4-9642cbd476e1 "Cybersecurity Essentials")
-</div>
-<hr>
 
   
 <!-- START NEW SECTION -->
@@ -75,7 +67,7 @@ My projects include a patient registration system for Puskesmas Simpur using HTM
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HestiYuanaMahardika&theme=radical&margin-w=40&margin-h=40)](https://github.com/HestiYuanaMahardika)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pinoskuno&theme=radical&margin-w=40&margin-h=40)](https://github.com/HestiYuanaMahardika)
 
 <hr>
 
@@ -86,15 +78,15 @@ My projects include a patient registration system for Puskesmas Simpur using HTM
 
 |Statistics|Languages|Streaks|
 |-|-|-|
-|[![Hesti's github stats](https://github-readme-stats.vercel.app/api?username=HestiYuanaMahardika&show_icons=true&theme=dracula&include_title=true)](https://github.com/HestiYuanaMahardika)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HestiYuanaMahardika&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/HestiYuanaMahardika)|![HestiYuanaMahardika](https://github-readme-streak-stats.herokuapp.com/?user=HestiYuanaMahardika&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)
+|[![Hesti's github stats](https://github-readme-stats.vercel.app/api?username=pinoskuno&show_icons=true&theme=dracula&include_title=true)](https://github.com/pinoskuno)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinoskuno&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/pinoskuno)|![Rahmat](https://github-readme-streak-stats.herokuapp.com/?user=pinoskuno&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)
 
 
 <h2 align="center">My Github Profile Summary Card</h2>
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_bright">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinoskuno&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinoskuno&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinoskuno&theme=nord_dark">
 </picture>
 <hr>
 
@@ -102,5 +94,5 @@ My projects include a patient registration system for Puskesmas Simpur using HTM
 <!-- START NEW SECTION -->
 <h2 align = 'Center'>Watch a 🐍 Eating My Contribution Graph</h2>
 
-![snake gif](https://github.com/HestiYuanaMahardika/HestiYuanaMahardika/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pinoskuno/pinoskuno/blob/output/github-contribution-grid-snake.gif)
 <hr>
