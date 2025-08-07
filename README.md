@@ -9,23 +9,21 @@
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>👩‍💻 About  Me <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HestiYuanaMahardika&label=Profile%20views&color=f20a0a&style=flat" alt="HestiYuanaMahardika" /> </p>
-I am a Front-End and Back-End Web Developer with more than 2 years of experience collaborating with companies, health centers, lecturers, doctors, and development teams. As a professional, I have worked in a variety of roles including software development, product management, and data analysis.
+I am a Front-End and Back-End Web Developer aslo Mobile App Developer passionate about crafting innovative web and mobile solutions. with more 1 years of experience collaborating with companies, health centers, lecturers, doctors, and development teams. As a professional, I have worked in a variety of roles including software development, product management, IOT and data analysis.
 <br/>
 
-Throughout my career, I have a track record of leading and managing various software development projects. I have experience as Full Stack Development as the best Dicoding batch 3 project in 2022, have experience in Project MSIB Batch 4 and INKA Group Product Development at PT Industri Kereta Api (Persero) as Information Technology Development in creating software programs, studying data analysis, and involved in creating digital infrastructure for the company in 2023, and was appointed as a research assistant as a Systems Analyst on the Higher Education Technology and Innovation Project related to the Development of an Integrated Medical Professional Education Information System together with lecturers in the Informatics field of the Engineering Study Program at the University of Lampung and Doctors at RSUAM in 2024. Apart from that, I also received an award as the 2nd Best Graduate of the University of Lampung University Level in 2023/2024.
-
-Beyond my professional pursuits, I am deeply committed to expanding my expertise and enhancing my skills in various areas of informatics engineering. I am a person who is enthusiastic about technology, has great enthusiasm for learning new things, is committed to excellence, is able to work together with other people to achieve certain goals at the right time, and is responsible for every task carried out. I am always eager to continue learning and contributing to challenging projects.
+My projects include a patient registration system for Puskesmas Simpur using HTML, CSS, JavaScript, and Firebase to streamline healthcare operations; Harvestia, a Kotlin-based app with TensorFlow Lite for rice crop disease diagnosis; and Kemenpora’s web systems, enhancing data visualization with ChartJs, SQL, and CodeIgniter. I also developed Comic Reader (Flutter, Firebase) for seamless digital comic reading and led UI/UX design for Cleaner App, prioritizing user-centric interfaces.
 <!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects** -->
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
  <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Let's Connect
  </h3>
-  <a href="https://www.linkedin.com/in/hesti-yuana-mahardika-b5aa21250/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/HestiYuanaMahardika"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/rahmat-ramadhan-rr11q"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/pinoskuno"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCN6dc_-5lgKrw-niuBE0xTA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/hestiyuanam" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:hestiyuana9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rahmat11q" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rakarr15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br>
 <hr>
  
