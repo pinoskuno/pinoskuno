@@ -54,8 +54,8 @@ My projects include a patient registration system for Puskesmas Simpur using HTM
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor)
 ![Streamlit](https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg)
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
-<img src="https://github.com/pinoskuno/pinoskuno/blob/main/icons8-google-cloud.svg" alt="Flutter" width="50"/>
+<img src="https://github.com/pinoskuno/pinoskuno/blob/main/icons8-visual-studio-code-2019.svg" alt="Flutter" width="50"/>
+<img src="https://github.com/pinoskuno/pinoskuno/blob/main/icons8-android-studio.svg" alt="Flutter" width="50"/>
 <hr>
 
 
