@@ -41,6 +41,8 @@ My projects include a patient registration system for Puskesmas Simpur using HTM
 ![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
 ![c](https://icongr.am/devicon/c-original.svg?size=50&color=currentColor)
 ![c++](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
+![Kotlin](https://iconscout.com/free-icon/kotlin-3521538_2944956)
+![Flutter](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
 
  
 ### Tools 🛠 
