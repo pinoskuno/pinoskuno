@@ -57,6 +57,7 @@ My projects include a patient registration system for Puskesmas Simpur using HTM
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
+<img src="https://github.com/pinoskuno/pinoskuno/blob/main/icons8-google-cloud.svg" alt="Flutter" width="50"/>
 <hr>
 
 
