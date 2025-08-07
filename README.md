@@ -1,7 +1,7 @@
-![](https://github.com/HestiYuanaMahardika/HestiYuanaMahardika/blob/main/HeaderGitHub.png)
+![](https://github.com/pinoskuno/pinoskuno/blob/main/HeaderGitHub.png)
 
 <hr>
-<h1 align="center"><img src="https://github.com/HestiYuanaMahardika/HestiYuanaMahardika/blob/main/Hello.svg" width="600px"></h1>
+<h1 align="center"><img src="https://github.com/pinoskuno/pinoskuno/blob/main/Hello.svg" width="600px"></h1>
 <hr>
 
 <img align="right" alt="Coding" width="280" height="190" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
@@ -41,8 +41,8 @@ My projects include a patient registration system for Puskesmas Simpur using HTM
 ![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
 ![c](https://icongr.am/devicon/c-original.svg?size=50&color=currentColor)
 ![c++](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
-![Kotlin](https://iconscout.com/free-icon/kotlin-3521538_2944956)
-![Flutter](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
+![Kotlin](https://github.com/pinoskuno/pinoskuno/blob/main/kotlin.svg)
+![Flutter](https://github.com/pinoskuno/pinoskuno/blob/main/flutter.svg)
 
  
 ### Tools 🛠 
